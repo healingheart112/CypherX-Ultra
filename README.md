@@ -75,7 +75,7 @@
 Click the button below and fill in the config vars when prompted, make sure you have a functional heroku account:
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Dark-Xploit/CypherX-Ultra">
+  <a href="https://heroku.com/deploy?template=https://github.com/kwesigh1/CypherX-Ultra">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
   </a>
 </p>
